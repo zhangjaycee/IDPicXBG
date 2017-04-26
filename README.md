@@ -2,7 +2,7 @@
 
 ### a program intending for changing a ID card photo's background
 
-the background color changing to by default is white, and the output file will guarenteed larger than 40K. (by doing Expansion Transformation if the source photo is to small...)
+By default, the background color being changed to is white, and the output file will guarenteed larger than 40K. (by doing Expansion Transformation if the source photo is to0 small...)
 
 ### how to use it:
 
